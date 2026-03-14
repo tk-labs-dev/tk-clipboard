@@ -1,6 +1,7 @@
 # tk-clipboard
 
-A macOS clipboard manager based on the Clipy project, updated for Apple Silicon and macOS Tahoe.
+
+An unofficial Apple Silicon / macOS Tahoe compatible fork of the Clipy clipboard manager.
 
 ## Overview
 
